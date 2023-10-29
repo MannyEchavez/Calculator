@@ -1,5 +1,6 @@
 let result = "";
 
+//using our old project to show professor that i know how to use github <3
 
 //appends characters to screen
 //Example: button 1 is pressed, then button + is pressed, then button 1 is pressed again
